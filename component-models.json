@@ -233,18 +233,18 @@
         "value": ""
       },
       {
-        "component": "text",
-        "valueType": "string",
-        "name": "textoCorto",
-        "label": "TextoCorto",
-        "value": ""
-      },
-      {
         "component": "richtext",
         "name": "text",
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "textoCorto",
+        "label": "TextoCorto",
+        "value": ""
       }
     ]
   }
